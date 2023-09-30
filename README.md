@@ -1,5 +1,5 @@
 # anonymous
-In this dataset, we set out to detfer from the conventional norm in which intent classification datasets are constructed.
+In this dataset, we set out to defer from the conventional norm in which intent classification datasets are constructed.
 
 For each sentence in the dataset, only a label which identifies the intent label to which the sentence belongs is included.
 No slot labels are added to the token inside each sentence.
